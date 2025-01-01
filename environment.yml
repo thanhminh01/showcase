@@ -13,6 +13,11 @@ dependencies:
   - vc=14.40
   - vs2015_runtime=14.42.34433
   - wheel=0.44.0
+  - langchain==0.3.13
+  - langchain-core==0.3.28
+  - langchain-groq==0.2.2
+  - langchain-text-splitters==0.3.4
+  - langsmith==0.2.7
   - pip:
     - aiohappyeyeballs==2.4.4
     - aiohttp==3.11.11
@@ -46,11 +51,6 @@ dependencies:
     - jsonpointer==3.0.0
     - jupyter-client==8.6.3
     - jupyter-core==5.7.2
-    - langchain==0.3.13
-    - langchain-core==0.3.28
-    - langchain-groq==0.2.2
-    - langchain-text-splitters==0.3.4
-    - langsmith==0.2.7
     - matplotlib-inline==0.1.7
     - multidict==6.1.0
     - nest-asyncio==1.6.0
