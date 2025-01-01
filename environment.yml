@@ -97,9 +97,5 @@ dependencies:
   - yarl=1.18.0
   - zeromq=4.3.5
   - zipp=3.21.0
-  - pip:
-    - distro==1.9.0
-    - groq==0.13.1
-    - langchain-core==0.3.28
-    - langchain-groq==0.2.2
+
 prefix: G:\stuff\ANACONDA\envs\janshowcase

@@ -1,0 +1,4 @@
+distro==1.9.0
+groq==0.13.1
+langchain-core==0.3.28
+langchain-groq==0.2.2
