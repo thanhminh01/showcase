@@ -1,7 +1,7 @@
 name: janshowcase
 channels:
   - defaults
-  - pypi
+  - conda-forge
 dependencies:
   - aiohappyeyeballs=2.4.4
   - aiohttp=3.11.10
